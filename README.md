@@ -1,4 +1,4 @@
-# Experimental package for the article "Perceptions on the Support for Living Software Architecture Diagrams of Multi-container Applications"
+# Experimental package for the paper "Infragenie: Living Software Architecture Diagrams From Docker Compose Files"
 
 ### Content 
 
@@ -10,5 +10,5 @@
   * _pull_requests_analysis.ipnb_ A jupyter notebook used to check the final state of the pull requests created during the study. 
   * _tool_analysis.ipnb_ A jupyter notebook used to analyse the data collected through the questionnaire.
 * **\infragenie_survey.pdf**: A PDF version of the questionnaire.
-* **\Infragenie-onboarding.mov**: Demo video explaining the tool's features that was distributed together with the questionnaire.
+* **\Infragenie-onboarding.mp4**: Demo video explaining the tool's features that was distributed together with the questionnaire.
 
